@@ -102,7 +102,7 @@ export default {
       let {title, descr} = this.note
 
       if (title === '') {
-        this.message = 'title can`t be blank!'
+        this.message = 'title can`t be blank bitch!'
         return false
       }
 
