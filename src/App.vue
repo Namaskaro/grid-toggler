@@ -124,6 +124,6 @@ export default {
 
 <style scoped>
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 </style>
